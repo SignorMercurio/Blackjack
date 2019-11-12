@@ -1,6 +1,8 @@
 # Quasar App (blackjack)
 
-A Quasar Framework app
+A practising project using Quasar Framework which is an absolutely awesome Vue.js framework.
+
+(Homework, actually.)
 
 ## Install the dependencies
 ```bash
@@ -22,5 +24,5 @@ npm run lint
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### Note
+Backend support needed.
